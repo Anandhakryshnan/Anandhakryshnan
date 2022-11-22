@@ -1,5 +1,5 @@
 # Hi there, I'm Anandha Kryshnan👋 
-<img src="https://giphy.com/gifs/hyouka-oreki-houtarou-SnVZO1N0Wo6u4.gif">
+<img src="https://tenor.com/view/anime-gif-discord-gif-21956062.gif">
 
 ## I'm a Computer Science and Engineering Student  
 
