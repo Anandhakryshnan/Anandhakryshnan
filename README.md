@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m doing my B.Tech from Model Govt.Engineering Collage Painav, Idukki.
+- 👨‍💻 I’m doing my B.Tech from Govt.Engineering Collage Painav, Idukki.
 - 💪🏼 I Draw,Paint,Sing,Read,Write in my free time
 - ⚡ Fun fact: I love Soft Melody Songs.
 ---
