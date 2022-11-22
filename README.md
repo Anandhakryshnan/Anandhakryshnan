@@ -59,25 +59,6 @@
 
 
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamsyy&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsyy&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
-<br />
-
----
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamsyy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 [instagram]: https://www.instagram.com/anandha_kryshnan/
-[Spotify]: https://open.spotify.com/track/2dqqDKp2LRm1MsyqxWeRIO?si=754036734852420e
+[Spotify]: https://open.spotify.com/playlist/3hustRRhjdfU3oCOUqQeby?si=agbnR7TIReeXKlGVSHgxfg&utm_source=copy-link
   
