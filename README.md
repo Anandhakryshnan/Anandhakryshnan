@@ -5,14 +5,14 @@
 
 - 👨‍💻 I’m doing my B.Tech from Govt.Engineering Collage Painav, Idukki.
 - 💪🏼 I Draw,Paint,Sing,Read,Write in my free time
-- ⚡ Fun fact: I love Soft Melody Songs.
+- ⚡ Fun fact: I love Melody Songs.
 ---
 
 
 ### Connect with me 📝
 
 [<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][Spotify]
-[<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://www.freepnglogos.com/images/logo-ig-png-32464.png"/>][instagram]
+[<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://www.freepnglogos.com/images/logo-ig-png-32464"/>][instagram]
 <br />
 
 <br/>
