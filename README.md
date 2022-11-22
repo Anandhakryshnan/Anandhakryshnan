@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/playlist/3hustRRhjdfU3oCOUqQeby?si=agbnR7TIReeXKlGVSHgxfg&utm_source=copy-link)
+[![Spotify](https://open.spotify.com/playlist/3hustRRhjdfU3oCOUqQeby?si=agbnR7TIReeXKlGVSHgxfg&utm_source=copy-link.jpg)
 
 
 ---
