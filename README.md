@@ -1,5 +1,5 @@
 # Hi there, I'm Anandha Kryshnan👋 
-<img src="https://tenor.com/view/alone-gif-24179628">
+<img src="https://tenor.com/view/alone-gif-24179628.gif">
 
 ## I'm a Computer Science and Engineering Student  
 
