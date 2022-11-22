@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m doing my B.Tech from Govt.Engineering Collage Painav, Idukki.
 - 💪🏼 I Draw,Paint,Sing,Read,Write in my free time.
-- ⚡ Fun fact: I love Melody Songs.
+- ⚡ Fun Fact : I love Melody Songs.
 ---
 
 
