@@ -1,4 +1,4 @@
-# Hi there, I'm Anandha Kryshnan👋 
+# Hi there, I'm Anandha Kryshnan👋 <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626.gif">
 <img src="https://tenor.com/view/sad-gif-20799058.gif">
 
 ## I'm a Computer Science and Engineering Student  
