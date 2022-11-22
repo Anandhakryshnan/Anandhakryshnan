@@ -12,8 +12,8 @@
 ### Connect with me 📝
 
 [<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][Spotify]
-[<a href="https://twitter.com/anandhakryshnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandhakryshnan" height="30" width="40" /></a>
-<a href="https://instagram.com/anandha_kryshnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandha_kryshnan" height="30" width="40" /></a>]
+<a href="https://twitter.com/anandhakryshnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandhakryshnan" height="30" width="40" /></a>
+<a href="https://instagram.com/anandha_kryshnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandha_kryshnan" height="30" width="40" /></a>
 <br />
 
 <br/>
