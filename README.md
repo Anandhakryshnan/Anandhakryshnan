@@ -4,17 +4,16 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m doing my B.Tech from Model Govt.Engineering Collage Painav, Idukki.
-- 📚 I love Flutter and Nodejs and i'm learning more about Web3 now 😅
 - 💪🏼 I Draw,Paint,Sing,Read,Write in my free time
 - ⚡ Fun fact: I love Soft Melody Songs.
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ### Spotify Playing 🎧
 
-[![Spotify]https://open.spotify.com/playlist/3hustRRhjdfU3oCOUqQeby?si=agbnR7TIReeXKlGVSHgxfg&utm_source=copy-link
+[![Spotify](https://open.spotify.com/playlist/3hustRRhjdfU3oCOUqQeby?si=agbnR7TIReeXKlGVSHgxfg&utm_source=copy-link)
 
 
 ---
