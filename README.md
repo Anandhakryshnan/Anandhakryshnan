@@ -12,7 +12,7 @@
 ### Connect with me 📝
 
 [<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][Spotify]
-[<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][instagram]
+[<img align="left" alt="anandha_kryshnan | Spotify" height="30px" src="https://www.flaticon.com/free-icon-font/instagram_6422200.png" />][instagram]
 <br />
 
 <br/>
