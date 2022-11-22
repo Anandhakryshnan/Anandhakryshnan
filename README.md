@@ -6,16 +6,6 @@
 - 👨‍💻 I’m doing my B.Tech from Model Govt.Engineering Collage Painav, Idukki.
 - 💪🏼 I Draw,Paint,Sing,Read,Write in my free time
 - ⚡ Fun fact: I love Soft Melody Songs.
-
----
-
-
-
-### Spotify Playing 🎧
-
-[![Spotify](https://open.spotify.com/playlist/3hustRRhjdfU3oCOUqQeby?si=agbnR7TIReeXKlGVSHgxfg&utm_source=copy-link.jpg)
-
-
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adamsyy&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
