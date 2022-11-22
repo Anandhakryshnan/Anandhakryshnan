@@ -12,7 +12,7 @@
 ### Connect with me 📝
 
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][Spotify]
-
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://fontawesome.com/icons/instagram?s=solid&f=brands.png" />][instagram]
 
 <br />
 
