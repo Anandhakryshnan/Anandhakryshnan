@@ -60,6 +60,6 @@
 [![](https://visitcount.itsvg.in/api?id=anandhakryshnan&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-[![Profile](https://img.shields.io/badge/Profile%20Views-1.2k-lightgrey)](href="https://anandhakryshnan.github.io/)
+[![Profile](https://img.shields.io/badge/Profile%20Views-1.2k-lightgrey)](href="https://anandhakryshnan.github.io)
 
 <!-- Proudly created by AnandhaKryshnan -->
