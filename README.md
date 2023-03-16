@@ -1,7 +1,6 @@
 # Hi there, I'm Anandha Kryshnan👋 
 <img src="https://tenor.com/view/anime-gif-discord-gif-21956062.gif">
 <h2>💫 About Me:</h2>
-# 💫 About Me:
 👨‍💻 I’m doing my B.Tech from Govt.Engineering Collage Painav, Idukki.<br>💪🏼 I Draw,Paint,Sing,Read,Write in my free time.<br>💬 Ask me about sunsets.<br>⚡ Fun fact I love Melody Songs.<br>🍫 Kitkat Lover.
 
 
