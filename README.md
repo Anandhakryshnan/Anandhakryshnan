@@ -21,6 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anandhakryshnan&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anandhakryshnan&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created by AnandhaKryshnan -->
