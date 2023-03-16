@@ -1,11 +1,19 @@
-# Hi there, I'm Anandha Kryshnan👋 
+<h1>Hi There, I am <a href="https://anandhakryshnan.github.io/" target="_blank">AnandhaKryshnan</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+
 <img src="https://tenor.com/view/anime-gif-discord-gif-21956062.gif">
 <h2>💫 About Me:</h2>
 👨‍💻 I’m doing my B.Tech from Govt.Engineering Collage Painav, Idukki.<br>💪🏼 I Draw,Paint,Sing,Read,Write in my free time.<br>💬 Ask me about sunsets.<br>⚡ Fun fact I love Melody Songs.<br>🍫 Kitkat Lover.
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anandha_kryshnan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/690485546342023188) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anandhakryshnan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandhakryshnan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anandhakryshnan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anandhakryshnan) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anandha_kryshnan) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/690485546342023188) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anandhakryshnan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandhakryshnan) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anandhakryshnan) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anandhakryshnan) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -50,5 +58,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anandhakryshnan&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+
+[![Profile](https://img.shields.io/badge/Profile%20Views-1.2k-lightgrey)](href="https://anandhakryshnan.github.io/)
 
 <!-- Proudly created by AnandhaKryshnan -->
