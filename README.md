@@ -1,6 +1,8 @@
 <h1>Hi There, I am <a href="https://anandhakryshnan.github.io/" target="_blank">AnandhaKryshnan</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 
+
+
 <img src="https://tenor.com/view/anime-gif-discord-gif-21956062.gif">
 <h2>💫 About Me:</h2>
 👨‍💻 I’m doing my B.Tech from Govt.Engineering Collage Painav, Idukki.<br>💪🏼 I Draw,Paint,Sing,Read,Write in my free time.<br>💬 Ask me about sunsets.<br>⚡ Fun fact I love Melody Songs.<br>🍫 Kitkat Lover.
@@ -15,7 +17,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anandhakryshnan) 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
@@ -47,19 +49,22 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anandhakryshnan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anandhakryshnan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhakryshnan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🎧 Spotify:
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hakoc2t6ftauawshn74ymvtkmq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div> 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=anandhakryshnan&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-[![Profile](https://img.shields.io/badge/Profile%20Views-1.2k-lightgrey)](href="https://anandhakryshnan.github.io)
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=anandhakryshnan&&style=flat-square" align="center" />
+</div>  
 
 <!-- Proudly created by AnandhaKryshnan -->
