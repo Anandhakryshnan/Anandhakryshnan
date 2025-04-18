@@ -32,8 +32,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=anandhakryshnan
-&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=anandhakryshnan&&style=flat-square" align="left" />
 </div>  
 
 
