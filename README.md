@@ -6,7 +6,11 @@
 <img src="https://tenor.com/view/anime-gif-discord-gif-21956062.gif">
 
 # 💫 About Me:
-👨‍💻 Creative Developer | B.Tech CSE @ Govt. Engineering College, Idukki.<br>🎨 Bridging beautiful design with robust engineering.<br>💬 Ask me about Web Dev, Tech Stacks, or sunsets.<br>⚡ Fun fact: Kitkat lover, melody listener, and an artist in my free time.
+- 👨‍💻 **Creative Developer** bridging beautiful design with robust engineering.
+- 🎓 **M.Tech in CS (Network & Security)** @ Govt. Engineering College, Wayanad.
+- 📜 **B.Tech CSE** @ Govt. Engineering College, Idukki.
+- 💬 Ask me about **Web Dev, Tech Stacks, or sunsets**.
+- ⚡ **Fun fact:** Kitkat lover, melody listener, and an artist in my free time.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anandha_kryshnan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/690485546342023188) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anandhakryshnan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anandhakryshnan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anandhakryshnan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anandhakryshnan)
